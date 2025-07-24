@@ -23,6 +23,6 @@ This is a simple two-player Tic Tac Toe game developed in C++. It runs in the te
 
 ---
 
-## 🖼️ Demo
+## Demo
 
 ![Demo Screenshot](demo.png)
